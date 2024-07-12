@@ -1,0 +1,112 @@
+{
+  "Search": {
+    "city": "City",
+    "property": "Property",
+    "type": "Type",
+    "price": "Price",
+    "cityAll": "All",
+    "cityTirana": "Tirana",
+    "cityDurres": "Durres",
+    "cityVlore": "Vlore",
+    "citySaranda": "Saranda",
+    "cityShengjin": "Shengjin",
+    "sellOrRent": "All",
+    "buy": "Buy",
+    "rent": "Rent",
+    "propertyAll": "All",
+    "propertyBuy": "Buy",
+    "propertyRent": "Rent",
+    "typeAll": "All",
+    "typeVilla": "Villa",
+    "typeApartment": "Apartment",
+    "typeHouse": "House",
+    "typeLand": "Land",
+    "typeRooms": "Rooms",
+    "typeStudio": "Studio",
+    "search": "Search",
+    "resetFilters": "Reset Filters",
+    "itemsPerPage": "Items per page: "
+  },
+  "PropertyCard": {
+    "price": "Price",
+    "condition": "Condition"
+  },
+
+  "BurgerMenu": {
+    "catalogue": "Catalogue",
+    "postAnAd": "Contact us",
+    "instagram": "Our instagram",
+    "phrase": "KEYS TO YOUR DREAM APARTMENT"
+  },
+  "PropertyPage": {
+    "propertyInfo": "Short info",
+    "city": "City:",
+    "roomsNumber": "Room's number:",
+    "areaSertified": "Area sertified:",
+    "areaAct": "Area:",
+    "price": "Price",
+    "sell": "Sell",
+    "rent": "Rent",
+    "btnSubmitReq": "Submit a request",
+    "btnContactUS": "Contact us",
+    "company": "Company",
+    "contactDetails": "Contact details"
+  },
+  "Footer": {
+    "company": "Company",
+    "contactDetails": "Contact details"
+  },
+  "Modal": {
+    "title": "Modal title",
+    "contactUs": "Contact us",
+    "submitRequest": "Submit a request",
+    "submit": "Submit",
+    "close": "Close",
+    "phone": "Phone number:",
+    "messengers": "Messengers:",
+    "interestedIn": "You are interested in (choose an option):",
+    "buy": "Buy",
+    "rent": "Rent"
+  },
+  "Form": {
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "validName": "Name is required",
+    "phone": "Phone",
+    "phonePlaceholder": "For example +123456789)",
+    "validPhone": "Valid phone number is required ",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "validEmail": "Valid email is required",
+    "message": "Message",
+    "textareaPlaceholder": "Enter your message",
+    "validMessage": "Message must be at least 10 characters long",
+    "toastSuccess": "Your data was successfully sent to us. Thank you",
+    "toastFailure": "Ooops, something went wrong. Try again, please"
+  },
+  "Privacy": {
+    "title": "Privacy policy",
+    "content": [
+      {
+        "title": "Use and Transfer of Information",
+        "text": "We use the information you provide solely for the purposes related to your request or inquiry. We do not transfer your personal information to third parties without your consent, except when it is necessary in accordance with applicable law. Your data may also be used to send information about our services or products if you have given your consent."
+      },
+      {
+        "title": "Information Security",
+        "text": "We take all necessary measures to protect the information you provide from unauthorized access, use, or disclosure. However, we cannot guarantee absolute security of data transmission over the internet."
+      },
+      {
+        "title": "Links to Third-Party Sites",
+        "text": "Our site may contain links to third-party sites. We are not responsible for the privacy policies or information protection practices of such sites."
+      },
+      {
+        "title": "Changes to Privacy Policy",
+        "text": "We may update our Privacy Policy from time to time. Any changes will be posted on this page with the date of the last update indicated."
+      },
+      {
+        "title": "Contact Us",
+        "text": "If you have any questions or suggestions regarding our Privacy Policy, please contact us at: cactusbusines@gmail.com"
+      }
+    ]
+  }
+}
